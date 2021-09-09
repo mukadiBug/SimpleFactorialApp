@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\factorial\factorial\bin\Debug\factorial.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\factorial\factorial\bin\Debug\factorial.exe
+c:\users\pc\documents\visual studio 2015\Projects\factorial\factorial\bin\Debug\factorial.pdb
+c:\users\pc\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.exe
+c:\users\pc\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Simple Factorial App\factorial\bin\Debug\factorial.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Simple Factorial App\factorial\obj\Debug\factorial.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Simple Factorial App\factorial\obj\Debug\factorial.pdb
